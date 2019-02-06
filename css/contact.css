@@ -1,9 +1,9 @@
 .nav-color {
-  background-image: radial-gradient(#6497b1, #03396c, #046e69);
+  background-image: radial-gradient(#6497b1, rgb(5, 146, 146), #046e69);
 }
 
-header {
-  background-image: radial-gradient(#6497b1, #03396c, #046e69);
+.head {
+  background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
   width: 100%;
   margin: 0px, auto;
   margin-bottom: 0px;
@@ -12,7 +12,7 @@ header {
 main {
   margin-top: px;
   padding-top: 10px;
-  background-image: radial-gradient(#6497b1, #03396c, #046e69);
+  background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
   width: 100%;
 
   margin: 0px, auto;

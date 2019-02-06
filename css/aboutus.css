@@ -10,7 +10,7 @@ main {
   background-image: radial-gradient(#6497b1, #03396c, #046e69);
   width: 100%;
   margin: 0px, auto;
-  margin-bottom: -90px;
+  margin-bottom: -80px;
 }
 main .wrapper {
   width: 100%;
@@ -73,7 +73,7 @@ main .wrapper {
 }
 /* footer */
 footer {
-  padding: 0px;
+  margin-top: 80px;
   max-resolution: 0px;
 }
 .footer-box {
