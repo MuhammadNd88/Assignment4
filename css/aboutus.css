@@ -1,87 +1,80 @@
-header{
-
-
-  background-image: radial-gradient(	#6497b1, #03396c, 	#046e69);
-    width: 100%;
-    margin: 0px, auto;
-    margin-bottom: 20px;
+header {
+  background-image: radial-gradient(#6497b1, #03396c, #046e69);
+  width: 100%;
+  margin: 0px, auto;
+  margin-bottom: 20px;
 }
 
 main {
-  margin-top:-25px;
-    background-image: radial-gradient(	#6497b1, #03396c, 	#046e69);
-    width: 100%;
-    margin: 0px, auto;
-    margin-bottom: -90px;
-  }
-  main .wrapper {
-    width: 100%;
-    margin: 0px, auto;
-    max-width: 1000px;
-  
-  }
-.wrapper h1{
+  margin-top: -25px;
+  background-image: radial-gradient(#6497b1, #03396c, #046e69);
+  width: 100%;
+  margin: 0px, auto;
+  margin-bottom: -90px;
+}
+main .wrapper {
+  width: 100%;
+  margin: 0px, auto;
+  max-width: 1000px;
+}
+.wrapper h1 {
+  font-family: "Pacifico", cursive;
+  text-align: center;
 
-    font-family: 'Pacifico', cursive;
-    text-align: center;
-
-    display: block;
+  display: block;
   padding-top: 10px;
-    color: white
-
-
+  color: white;
 }
 
-.para{
-    float: left;
-    padding: 10;
-   color: white;
-    height: 600px;
-    width: 200px;
-   
-    
-  }
-  
-  .image2 {
-      float: left;
-    margin: 0px 10px 0px 10px;
-    padding: 10;
-    margin-bottom: 10px;
-    background-size: cover;
-    background-repeat: 60% 40%;
-    background-image: url('../Images/20171009_171722.jpg');
-    height: 300px;
-    width: 100%;
-  }
-  
-  .image3 {
-    float: left;
+.para {
+  float: left;
+  padding: 10;
+  color: white;
+  height: 600px;
+  width: 200px;
+}
+
+.image2 {
+  float: left;
+  margin: 0px 10px 0px 10px;
+  padding: 10;
+  margin-bottom: 10px;
+  background-size: cover;
+  background-position: 50% 25%;
+  background-repeat: no-repeat;
+  background-image: url("../Images/20171009_171722.jpg");
+  height: 400px;
+  width: 100%;
+}
+
+.image3 {
+  float: left;
   margin: 0px 10px 10px 00px;
   background-size: cover;
 
   margin-bottom: 10px;
   background-size: cover;
   background-repeat: 70% 30%;
-  background-image: url('../Images/Banff\,\ Alberta.jpg');
+  background-image: url("../Images/Banff\,\ Alberta.jpg");
   height: 400px;
   width: 300px;
 }
 .image4 {
   float: left;
-margin: 0px 20px 20px 10px;
-background-size: cover;
+  margin: 0px 20px 20px 10px;
+  background-size: cover;
 
-margin-bottom: 10px;
-background-size: cover;
-background-repeat: 70% 30%;
-background-image: url('../Images/British\ Columbia\ 2.jpg');
-height: 400px;
-width: 100%;
+  margin-bottom: 10px;
+  background-size: cover;
+  background-repeat: 70% 30%;
+  background-image: url("../Images/British\ Columbia\ 2.jpg");
+  height: 400px;
+  width: 100%;
 }
 /* footer */
 footer {
   padding: 0px;
-  max-resolution: 0px;;
+  max-resolution: 0px;
 }
 .footer-box {
   display: block;
@@ -89,17 +82,15 @@ footer {
 }
 footer a {
   color: rgb(247, 242, 242);
-
 }
 
 footer p {
-  font-family: 'Times New Roman', Times, serif;
-font-size: 14px;
-color: white;
-padding-top: 5px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  color: white;
+  padding-top: 5px;
 }
 .footer-container {
- 
   display: flex;
   justify-content: center;
   background-color: rgb(5, 146, 146);
@@ -121,21 +112,17 @@ li {
   font-family: sans-serif;
 }
 .footer-box li a {
-  color:white;
+  color: white;
 
   text-decoration-line: none;
   font-size: 12px;
   font-weight: 200;
 }
-footer ul{
-
-font-size: 16px;
-color: white;
-
+footer ul {
+  font-size: 16px;
+  color: white;
 }
-ul li a:hover{
-text-decoration-line: underline;
-color:blue;
-
-
+ul li a:hover {
+  text-decoration-line: underline;
+  color: blue;
 }
