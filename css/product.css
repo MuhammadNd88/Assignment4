@@ -1,0 +1,188 @@
+
+
+/* Button */
+.button{
+margin-left: 5px;
+margin-right: 5px;
+display: flex;
+flex-direction: row;
+float: left;
+padding: px;
+}
+.container p{
+    margin-left: 8px;
+    margin-top: 10px;
+
+
+}
+
+/* image */
+
+.img-container{
+margin-top: 5px;
+margin-left: 5px;
+
+
+
+}
+.image3 {
+    padding-bottom: 10px;
+  background-size: cover;
+
+background-position: center;
+  background-repeat: no-repeat;
+  background-image: url('../Images/Banff\,\ Alberta.jpg');
+  height: 200px;
+
+  width: 500px;
+}
+
+.img1 {
+    margin-top: 10px;
+    padding-bottom: 10px;
+  background-size: cover;
+  margin-right: 5px;
+  margin-left: 10px;
+background-position: center;
+  background-repeat: no-repeat;
+  background-image: url('../Images/British\ Columbia\ 2.jpg');
+  height: 300px;
+
+  width: 300px;
+}
+
+.img2 {
+    margin-top: 10px;
+    padding-bottom: 10px;
+  background-size: cover;
+  margin-right: 5px;
+  margin-left: 10px;
+background-position: center;
+  background-repeat: no-repeat;
+  background-image: url('../Images/Kolwena.jpg');
+  height: 300px;
+
+  width: 300px;
+}
+
+.img3 {
+    margin-top: 10px;
+    padding-bottom: 10px;
+  background-size: cover;
+  margin-right: 5px;
+  margin-left: 10px;
+background-position: center;
+  background-repeat: no-repeat;
+  background-image: url('../Images/img6.jpg');
+  height: 300px;
+
+  width: 300px;
+}
+
+.img4 {
+    margin-top: 10px;
+    padding-bottom: 10px;
+  background-size: cover;
+  margin-right: 5px;
+  margin-left: 10px;
+background-position: center;
+  background-repeat: no-repeat;
+  background-image: url('../Images/img4.jpg');
+  height: 300px;
+
+  width: 300px;
+}
+.img5 {
+    margin-top: 10px;
+    padding-bottom: 10px;
+  background-size: cover;
+  margin-right: 5px;
+  margin-left: 10px;
+background-position: center;
+  background-repeat: no-repeat;
+  background-image: url('../Images/Vancouver\ Downtown\ 1.jpg');
+  height: 300px;
+
+  width: 300px;
+}
+
+.img6 {
+    margin-top: 10px;
+    padding-bottom: 10px;
+  background-size: cover;
+  margin-right: 5px;
+  margin-left: 10px;
+background-position: center;
+  background-repeat: no-repeat;
+  background-image: url('../Images/img3.jpg');
+  height: 300px;
+
+  width: 300px;
+}
+/* 8888888888888888888888888footer 888888888888888888888888888888888888*/
+
+
+/* footer */
+footer {
+    margin-top: 80px;
+  padding: 0px;
+
+  max-resolution: 0px;;
+}
+.footer-box {
+margin-top: 30px;
+  display: block;
+  justify-content: flex-start;
+}
+footer a {
+  color: rgb(247, 242, 242);
+
+}
+
+footer p {
+  font-family: 'Times New Roman', Times, serif;
+font-size: 14px;
+color: white;
+padding-top: 5px;
+}
+.footer-container {
+ 
+  display: flex;
+  justify-content: center;
+  background-color: rgb(5, 146, 146);
+}
+.icon-container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(6, 126, 126);
+}
+@media (max-width: 600px) {
+  .footer-container {
+    flex-direction: column; /**can use flex wrap so in that case dont need to worries about this thing**/
+  }
+}
+li {
+  line-height: 1.4;
+  font-family: sans-serif;
+}
+.footer-box li a {
+  color:white;
+
+  text-decoration-line: none;
+  font-size: 12px;
+  font-weight: 200;
+}
+footer ul{
+
+font-size: 16px;
+color: white;
+
+}
+ul li a:hover{
+text-decoration-line: underline;
+color:blue;
+
+
+}
