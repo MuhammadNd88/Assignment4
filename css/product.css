@@ -1,13 +1,13 @@
 header {
-  background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
+  background-color: #011f4b;
   width: 100%;
   margin: 0px, auto;
   margin-bottom: 20px;
 }
 main{
 margin-top: -50px;
-  background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
-  margin-bottom: 100px;
+background-color: #0e51b6;
+margin-bottom: 100px;
   
 }
 .container{
@@ -172,14 +172,14 @@ padding-top: 5px;
   display: flex;
   margin-top: -100px;
   justify-content: center;
-  background-color: rgb(5, 146, 146);
+  background-color: #011f4b;
 }
 .icon-container {
   padding-top: 30px;
   padding-bottom: 30px;
   display: flex;
   justify-content: center;
-  background-color: rgb(6, 126, 126);
+  background-color: #011f4b;
 }
 @media (max-width: 600px) {
   .footer-container {
